@@ -1,0 +1,23 @@
+.section-1 { 
+    background-image: linear-gradient(180deg,#7466b6,#ad88c6);
+    
+}
+.section-1-heading {
+    font-size: 4rem;
+}
+
+/* font-family: "Roboto", sans-serif; */
+/* font-family: "Noto Sans", sans-serif; */
+
+h1,h2,h3,h4,h5 {
+    font-family: "Noto Sans", sans-serif;
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+}
+
+.log{
+    background-image: linear-gradient(180deg,#7466b6,#ad88c6);
+    background-size: cover;
+}
